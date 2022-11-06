@@ -1,0 +1,6 @@
+/home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/build/CMakeFiles/Tutorial.dir
+/home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/build/CMakeFiles/edit_cache.dir
+/home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/build/CMakeFiles/rebuild_cache.dir
+/home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/build/MathFunctions/CMakeFiles/rebuild_cache.dir

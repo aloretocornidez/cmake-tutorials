@@ -191,8 +191,14 @@ CMakeFiles/Tutorial.dir/tutorial.cxx.o: tutorial.cxx \
   /usr/include/c++/12.2.0/bits/basic_ios.tcc \
   /usr/include/c++/12.2.0/bits/ostream.tcc \
   /usr/include/c++/12.2.0/istream \
-  /usr/include/c++/12.2.0/bits/istream.tcc
+  /usr/include/c++/12.2.0/bits/istream.tcc \
+  TutorialConfig.h \
+  MathFunctions/MathFunctions.h
 
+
+MathFunctions/MathFunctions.h:
+
+TutorialConfig.h:
 
 /usr/include/c++/12.2.0/bits/istream.tcc:
 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/build",
+  "command": "/usr/bin/c++  -I/home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/MathFunctions -I/home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/build -I/home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/build/MathFunctions -g -std=gnu++11 -o CMakeFiles/Tutorial.dir/tutorial.cxx.o -c /home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/tutorial.cxx",
+  "file": "/home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/tutorial.cxx"
+},
+{
+  "directory": "/home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/build/MathFunctions",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/MathFunctions.dir/mysqrt.cxx.o -c /home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/MathFunctions/mysqrt.cxx",
+  "file": "/home/alan-manuel/Downloads/temporary-container/git-repos/cmake-tutorials/MathFunctions/mysqrt.cxx"
+}
+]
